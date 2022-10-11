@@ -1,0 +1,11 @@
+micronaut:
+  application:
+    name: micronautWithGraphql
+netty:
+  default:
+    allocator:
+      max-order: 3
+graphql:
+  enabled: true
+  graphiql:
+    enabled: true

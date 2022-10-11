@@ -1,0 +1,6 @@
+/home/knoldus/workspace/micronaut/micronaut-with-graphql/src/main/java/com/knoldus/micronaut/repository/DbRepository.java
+/home/knoldus/workspace/micronaut/micronaut-with-graphql/src/main/java/com/knoldus/micronaut/dto/Author.java
+/home/knoldus/workspace/micronaut/micronaut-with-graphql/src/main/java/com/knoldus/micronaut/Application.java
+/home/knoldus/workspace/micronaut/micronaut-with-graphql/src/main/java/com/knoldus/micronaut/dto/Book.java
+/home/knoldus/workspace/micronaut/micronaut-with-graphql/src/main/java/com/knoldus/micronaut/config/GraphQLDataFetchers.java
+/home/knoldus/workspace/micronaut/micronaut-with-graphql/src/main/java/com/knoldus/micronaut/config/GraphQLFactory.java
